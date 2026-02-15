@@ -19,15 +19,15 @@ footer {
     /* TODO: Style header with background-color (black), color (white), 
     text-align, padding -- 
     footer is comma deliniated because it takes the same styles*/
-background-color: #090B0B;
-color: #FFFFFC;
-text-align: center;
-padding: 2em;
+    background-color: #090B0B;
+    color: #FFFFFC;
+    text-align: center;
+    padding: 2em;
 }
 
 .date-time {
     /* TODO: Make the date-time orange, uppercase, and bold */
-color: #DF4601;
+    color: #DF4601;
     text-transform: uppercase;
 }
 
@@ -35,12 +35,12 @@ color: #DF4601;
 h2 {
     /* TODO: Style the h2 (orange) -- 
     this will carry thru to all h2 elements, including the header*/
-color: #DF4601;
+    color: #DF4601;
 }
 
 main {
     /* TODO: Add margin to main content area */
-margin: 2em;
+    margin: 2em;
 }
 
 a {
@@ -66,7 +66,7 @@ a {
 .tickets a {
     /* TODO: Sets styling for button link - add padding (all sides), 
     background-color, color, and text-decoration (none) */
-    background-color:#090B0B;
+    background-color: #090B0B;
     color: #FFFFFC;
     padding: 14px;
     text-decoration: none;
@@ -86,6 +86,6 @@ a {
 /* ===== FAQs SECTION ===== */
 .faq {
     /* TODO: Add an orange left border and padding to the list section */
-    border-left: 2px solid #DF4601; 
+    border-left: 2px solid #DF4601;
     padding: 2em;
 }

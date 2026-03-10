@@ -1,0 +1,55 @@
+header,
+footer{
+    /* TODO: Style header with background-color (black), color (white), 
+    text-align, padding -- 
+    footer is comma deliniated because it takes the same styles*/
+    background-color: #090B0B;
+    color: #FFFFFC;
+    text-align: center;
+    padding: 2em;
+}
+
+.visit-box 
+{
+    background-color: #090B0B;
+    color: #99992e;
+    line-height: 25px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 4em;
+    padding: 5px;
+}
+
+main {
+    margin: 5px;
+}
+
+
+    
+.body {
+      font-family: "DM Sans", sans-serif;
+}
+
+.h1 {
+      font-family: "Newsreader", serif;
+}
+
+.h2 {
+      font-family: "Newsreader", serif;
+}
+
+.h3 {
+      font-family: "Newsreader", serif;
+}
+
+.col-md-6 {
+font-size: small;
+}
+
+.press-room-footer {
+  background-color: black;
+  max-width: 1000px; /* Set this to the width of your image above */
+  margin: 0 auto;    /* This centers the box on the page */
+  padding: 50px;     /* Gives the text some breathing room */
+  text-align: center;
+}

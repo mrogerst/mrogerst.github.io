@@ -1,0 +1,74 @@
+﻿Image: https://drive.google.com/drive/folders/1PDs3vRYV4CDGfbWbHv3_o1z7t4gRo9LU
+
+
+Fonts: 
+* Newsreader (h1, h2, h3)
+* DM Sans (Body)
+Colors: 
+* Black 02111B (header, visit box background)
+* Cream E0DDCF (“visit us” box)
+* White FCFCFC (nav links)
+
+
+
+
+
+
+<nav>
+    <a href="#">Menu</a> | <a href="#">Hours</a> | <a href="#">Our location</a>
+</nav>
+<!-- // -->
+<p>
+<h1>The Daily Loaf</h1> opened in 2022 when former food journalist Sarah Rae traded her press pass for a baker's apron.
+After years of covering restaurant openings and food trends for the Baltimore Sun, Sarah realized her true passion was
+creating the stories herself—one loaf at a time.</p>
+<p>Located just off the Thames Street in Fell's Point, The Daily Loaf brings together Sarah's two loves: storytelling
+    and sourdough. Every morning, we "publish" fresh batches of artisan breads and pastries using traditional techniques
+    and local ingredients. Just like a great news story, our baking is honest, crafted with care, and meant to be
+    shared.</p>
+<p>Whether you're a student pulling an all-nighter or a professional preparing for morning calls, The Daily Loaf is your
+    daily source for fresh-baked goodness.</p>
+<!-- // -->
+<h2>Visit the press room</h2>
+<p>1837 Thames Street,<br> Baltimore, MD, 21231</p>
+<p>6 a.m. to 3 p.m. daily</p>
+<!-- // -->
+<h2>Today's Headlines</h2>
+<p>Our signature bakes, hot off the press</p>
+<!-- // -->
+<h3>The Breaking News</h3>
+<p>Our flagship artisan sourdough with a crispy crust and tangy center. Made with our 4-year-old starter and
+    baked fresh every morning. This one's always the front-page story.</p>
+<!-- // -->
+<h3>Editor's Choice</h3>
+
+
+<p>Buttery, gooey cinnamon rolls with cream cheese frosting. So good, they make the headlines every weekend.
+    Get here early—they sell out before noon!</p>
+<!-- // -->
+<h3>Press Room Cold Brew</h3>
+
+
+<p>Small-batch cold brew coffee steeped for 24 hours. Smooth, bold, and strong enough to fuel any deadline.
+    Served over ice or straight up. Local beans from Ceremony Coffee Roasters.</p>
+<!-- // -->
+<h3>Investigative Reporter</h3>
+
+
+<p>Flaky, buttery croissants that take 3 days to make. Layers upon layers of investigation...we mean,
+    lamination. Available plain or filled with chocolate or almond cream. </p>
+<!-- // -->
+<h2>Letters to the editor</h2>
+
+
+<p>"As a journalism major, I had to try this place. The Breaking News Sourdough lives up to the hype! Now
+    I'm
+    here every Tuesday morning before class. The owner Sarah always remembers my order."<br><em>-- Alex
+        P.</em></p>
+<p>"The Press Room Cold Brew is my secret weapon for long days. Strong enough to keep me alert but smooth
+    enough
+    to drink all day. Plus the cinnamon rolls? Front-page worthy!"<br><em>-- Jordan M.</em></p>
+<p>"Love the journalism theme and the bread is even better than the puns. The Everything Bagels are my go-to
+    breakfast before hitting the library. Plus, the student discount is clutch!"<br><em>-- Casey R.</em></p>
+<!-- // -->
+<p>© 2025 The Daily Loaf | Your trusted source for fresh bread since 2022</p>

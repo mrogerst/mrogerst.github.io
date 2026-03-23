@@ -252,7 +252,6 @@ body {
     }
 }
 
-
 .profile-img {
     width: 45%;
     max-width: 320px;
@@ -262,7 +261,6 @@ body {
     border-radius: 12px;
     flex-shrink: 0;
 }
-
 
 .hero-container {
     display: flex;
@@ -275,7 +273,6 @@ body {
     flex-direction: column;
     justify-content: center;
 }
-
 
 .bio-sub .bi {
     font-size: 1rem;

@@ -46,7 +46,6 @@ p {
   letter-spacing: -2px;
   color: #0d0c0a;
   margin: 0 0 24px;
-  text-align: center;
 }
 
 .hero-sub {
@@ -57,14 +56,8 @@ p {
   line-height: 1.4;
   color: #3a3630;
   margin: 0 0 40px;
-  text-align: center;
 }
 
-.meta-item {
-  display: inline-block;
-  margin-right: 36px;
-  margin-bottom: 8px;
-}
 
 .meta-label {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -274,6 +267,7 @@ p {
   margin: 28px 0 16px;
 }
 
+/* The Datawrapper iframe itself */
 .dw-frame {
   width: 100%;
   border: none;
